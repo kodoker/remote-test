@@ -1,3 +1,4 @@
 File 1 for first test
 Test for local user configuration!
 Line that make a conflict on merge created in local
+STACIPPA LIPPA MIPPA SUCCA
